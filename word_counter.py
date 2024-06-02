@@ -3,4 +3,5 @@ def word_counter():
     words = text.split()
     count = len(words)
     print("Word count: ", count)
+    
 word_counter()
